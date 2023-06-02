@@ -1,0 +1,15 @@
+print(                                      "               My      Profile     "                            )
+name="Saman"
+last_name="Khan"
+batch="second"
+department="RS and GIS"
+age="20"
+Roll_number="21101005"
+semester="4"
+print("name:",name)
+print("lastname:",last_name)
+print("batch:",batch)
+print("department:",department)
+print("Rollnumber:",Roll_number)
+print("age:",age)
+print("semester:",semester)
